@@ -1,30 +1,11 @@
 # Requirements
 ## Introduction
-    Tic-tac-toe is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os. Tic-tac-toe is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media. Games played on three-in-a-row boards can be traced back to ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC
+Tic-tac-toe is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os. Tic-tac-toe is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media. Games played on three-in-a-row boards can be traced back to ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC
   
 ## Research
-Based on the result of research discussed in the previous chapter, the writer
-draws some conclusions of teaching present perfect tense by using Tic Tac Toe game.
-There are:
-a. Teaching present perfect tense by using Tic Tac Toe game can improve
-students’ ability in mastery the tense. It has been proved by average score of
-post-test of experimental class (75,25) which is higher than post-test of control
-class (62,25). This shows that the students of experimental class have improved
-their mastery in present perfect tense. Then, it is also proved by examining the
-hypothesis that to is higher than ttable (4,21 > 1,69). It means that there is
-significant difference of achievement between the students who were taught by
-using the Tic Tac Toe game and the students who were taught without the Tic
-Tac Toe game.
-b. The second year students of SMPN 1 Baitussalam are interested in learning
-present perfect tense by using Tic Tac Toe game. It can be seen from the result
-of questionnaires and the students’ enthusiast in learning process. In addition,
-the result of Questionnaire also shows that the Tic Tac Toe game can help
-students in learning present perfect tense well and easily.
-c. Most of the students did not find any obstacles in learning perfect tense by using
-the Tic Tac Toe game. But, there was only one student who confirmed that he
-found obstacles in learning present perfect tense by using Tic Tac Toe game. 
-2.The obstacles are the complexity of the rules of the game and limited time in
-playing the game. 
+ It is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play tic-tac-toe perfectly or to enumerate the 765 essentially different positions (the state space complexity) or the 26,830 possible games up to rotations and reflections (the game tree complexity) on this space. If played optimally by both players, the game always ends in a draw, making tic-tac-toe a futile game.
+
+The game can be generalized to an m,n,k-game in which two players alternate placing stones of their own color on an m×n board, with the goal of getting k of their own color in a row. Tic-tac-toe is the (3,3,3)-game.Harary's generalized tic-tac-toe is an even broader generalization of tic-tac-toe. It can also be generalized as a nd game. Tic-tac-toe is the game where n equals 3 and d equals 2.It can be generalised even further by playing on an arbitrary incidence structure, where rows are lines and cells are points.
 ![Description](Link to Pic) --Content
 
 ## Cost and Features and Timeline
@@ -41,19 +22,30 @@ In ancient times this game requires only a piece of paper and a pen. In our digi
 ### WEAKNESS
 * Works only with keyboard
 ### OPERTUNITIES 
+* We can increase the number of rows and columns in the game if updated.
+* Our game is portable i.e., it can be used in both linux and windows. 
 ![SWOT-Sample](Link to pic)
+### THREATS
+* There are so many improvements with the latest technology but our game is fundamental.
 ## 4W's and 1'H
 ### Who:
-#### TBD
+* Any one can play this game. But it is very intersting for young kids.
 ### When:
-#### TBD
+* This game can be played whenever you are feeling bored.
 ### Where:
-#### TBD
+* Our Game has to be played in PC/Laptop.
 ### How:
-#### TBD
+* Our Game requires two players.Player1 puts "X" and Player2 puts"O" by choosing numbers from 1-9
 ## Detail Requirements
 ### High Level Requirements
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+|  ID  |       Description                          | Status (Implemented/Future) |
+|------|--------------------------------------------|-----------------------------|
+| HR01 |    Player1 has to put "X"                  |   Implemented               |
+| HR02 |	Player2 has to put "O"                  |   Implemented               |
+| HR03 |	Player1 and 2 has to create his/her name|   Future                    |
+| HR04 |	Players should know who wins            |   Implemented               |
+| HR05 |	Players should know if draw occurs      |   Implemented               |
+
 
 ### Low level Requirements:
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
