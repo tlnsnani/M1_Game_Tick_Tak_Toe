@@ -50,8 +50,8 @@ In ancient times this game requires only a piece of paper and a pen. In our digi
 ### Low level Requirements:
 |  ID  |                Description                | Status (Implemented/Future) |
 |------|-------------------------------------------|-----------------------------|
-| LR01 |  Player1 has to put "X"                   |   Implemented               |
-| LR02 |	Player2 has to put "O"                   |   Implemented               |
-| LR03 |	Player1 and 2 has to create his/her name |   Future                    |
-| LR04 |	Players should know who wins             |   Implemented               |
-| LR05 |	Players should know if draw occurs       |   Implemented               |
+| LR01 |  If player1 press (1-9) "X" should be replaced in that square                     |   Implemented               |
+| LR02 |	If player2 press (1-9) "O" should be replaced in that square                   |   Implemented               |
+| LR03 |	If any player selects the already filled square show "INVALID"|   Future                    |
+| LR04 |	If Player1 wins print "Player1 win"                                            |   Implemented               |
+| LR05 |	If Player2 wins print "Player2 win"                                             |   Implemented               |
