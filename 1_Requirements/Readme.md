@@ -48,4 +48,10 @@ In ancient times this game requires only a piece of paper and a pen. In our digi
 
 
 ### Low level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+|  ID  |                Description                | Status (Implemented/Future) |
+|------|-------------------------------------------|-----------------------------|
+| LR01 |  Player1 has to put "X"                   |   Implemented               |
+| LR02 |	Player2 has to put "O"                   |   Implemented               |
+| LR03 |	Player1 and 2 has to create his/her name |   Future                    |
+| LR04 |	Players should know who wins             |   Implemented               |
+| LR05 |	Players should know if draw occurs       |   Implemented               |
