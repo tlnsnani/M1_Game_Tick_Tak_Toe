@@ -2,7 +2,7 @@
 #include <tic_tac_toe.h>
 
 /* Modify these two lines according to the project */
-#include <calculator_operations.h>
+#include <tic_tac_toe_functions.h>
 #define PROJECT_NAME    "Tic tac toe"
 
 /* Prototypes for all the test functions */
