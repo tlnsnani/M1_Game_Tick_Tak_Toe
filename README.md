@@ -21,3 +21,14 @@
 |`5_Report`|Generated Report|
 |`6 ImagesandVideos`|All the images and program execution video|
 |`7_Other`|other information|
+
+
+
+
+
+# Learning Resources
+1.Tutorials point
+
+2.Geeksforgeeks
+
+3.Github
