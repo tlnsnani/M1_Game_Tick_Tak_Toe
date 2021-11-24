@@ -1,16 +1,16 @@
 # Name of the project
-PROJECT_NAME = Tic_tac_toe
+PROJECT_NAME = Tic tac toe
 
 # Output directory
 BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/tictactoe_operations.c
+src/tic_tac_toe_functions.c
 
 # All test source files
-TEST_SRC = src/tictactoe_operations.c\
-test/test_calculator_operations.c\
+TEST_SRC = src/tic_tac_toe_functions.c\
+test/test_tic_tac_toe_functions.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
